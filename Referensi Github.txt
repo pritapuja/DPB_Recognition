@@ -1,0 +1,3 @@
+https://github.com/16bindu552veeramachaneni/Automatic-licence-number-plate-dectection-Deep-learning/blob/main/1.%20License%20Plate%20Detection%20(using%20Contours).ipynb
+https://github.com/kazmiekr/GasPumpOCR
+https://github.com/yaooo/SevenSegmentKNN
